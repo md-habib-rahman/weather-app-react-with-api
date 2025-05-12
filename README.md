@@ -6,8 +6,6 @@ This is a simple, beginner-friendly **Weather App** built using **React**, **Tai
 
 ## 🚀 Demo
 
-![React Weather App Demo](weather app screenshot.png)
-
 Live preview: [Netlify](https://weather-app-react-openweather-api.netlify.app/)
 
 ---
@@ -25,7 +23,7 @@ Live preview: [Netlify](https://weather-app-react-openweather-api.netlify.app/)
 
 ## 📸 Screenshots
 
-> ![screenshot](https://your-screenshot-link.png)
+> ![screenshot](https://github.com/md-habib-rahman/weather-app-react-with-api/blob/main/public/weather%20app%20screenshot.png)
 
 ---
 
